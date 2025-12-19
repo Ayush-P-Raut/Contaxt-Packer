@@ -1,0 +1,5 @@
+{
+  "name": "Codebase Context Packer",
+  "description": "A client-side utility to select a local project directory, filter relevant text files, and pack them into a structured format (XML/Markdown) to copy-paste into AI chat windows for context.",
+  "requestFramePermissions": []
+}
